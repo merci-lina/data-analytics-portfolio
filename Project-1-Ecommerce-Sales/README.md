@@ -25,3 +25,7 @@ This project analyzes ecommerce transaction data to uncover revenue trends, cust
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Business Insight Generation
+
+## 📊 Dashboard Preview
+
+![e_commerce_sales_ dashboard](dashboard_preview.png)
