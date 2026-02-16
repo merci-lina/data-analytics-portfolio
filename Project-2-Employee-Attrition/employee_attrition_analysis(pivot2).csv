@@ -1,0 +1,8 @@
+Attrition by JobRole,,
+,,
+JobRole,Sum of Attrition_Flag,
+Data Analyst,0,
+HR Rep,5,
+IT Support,0,
+Sales Exec,15,
+Grand Total,20,
